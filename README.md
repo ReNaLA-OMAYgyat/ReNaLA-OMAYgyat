@@ -1,5 +1,16 @@
 # 💫 About Me:
 Hi, I'm Fatan 👋<br>aka The Copy Boy — I turn clarity into code & pixels into experiences.<br>💼 What I Do<br>🧠 UI/UX Designer in progress<br>🎨 Craft minimalist yet expressive interfaces<br>💻 Frontend Dev (HTML, CSS, Tailwind)<br>✍️ Combine visual & verbal design — storytelling meets structure<br>🧪 Playground Projects<br>🚧 Personal Website — In progress<br><br>Portfolio + design showcase<br>Clean, fast, and tells a visual story<br><br>🖌️ UI/UX Case Studies — Coming soon<br><br>Mockups, redesigns, and layout thinking from my creative perspective<br><br>
+<br>
+
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+
+  <br>
+
+  ![snake gif](https://github.com/synthever/synthever/blob/output/github-contribution-grid-snake-dark.svg)
+
+  <br>
 
 
 ## 🌐 Socials:
