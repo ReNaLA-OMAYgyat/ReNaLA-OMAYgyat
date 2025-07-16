@@ -1,11 +1,11 @@
-<!-- 🎆 SVG-Based Banner with Gradient + Stars -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F4D06F&vCenter=true&center=true&multiline=true&width=600&lines=✨+Hi,+I'm+Fatan+(a.k.a+The+Copy+Boy)!;🖌️+Designer+Who+Codes;🎮+Crafting+Games,+Web,+and+Visual+Stories;🎨+Minimalist+UI+%2B+Frontend+Dev;✍️+Pixels+%2B+Words+%3D+Impactful+Design" alt="Typing SVG aesthetic" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=F9DC5C&center=true&vCenter=true&width=600&lines=✨+Designer+dengan+skill+B+aja" alt="Pixel Typing SVG" />
 </p>
 
 
-<p align="center">
-# ## 💫 About Me  
+
+
+## 💫 About Me  
 Hi, I'm Fatan 👋  
 aka **The Copy Boy** — I turn clarity into code and pixels into experiences.
 
@@ -19,7 +19,7 @@ aka **The Copy Boy** — I turn clarity into code and pixels into experiences.
 - 🚧 **Personal Website** — In progress  
 - 🖼️ **Portfolio & Showcase** — Clean, fast, and tells a visual story  
 - 🖌️ **UI/UX Case Studies** — *Coming soon!*  
-</p>
+  
 
 <div align="center">
   
