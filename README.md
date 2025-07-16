@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F4D06F&vCenter=true&center=true&multiline=true&width=600&lines=✨+Hi,+I'm+Fatan+(a.k.a+The+Copy+Boy)!;🖌️+Designer+Who+Codes;🎮+Crafting+Games,+Web,+and+Visual+Stories;🎨+Minimalist+UI+%2B+Frontend+Dev;✍️+Pixels+%2B+Words+%3D+Impactful+Design" alt="Typing SVG aesthetic" />
 </p>
-</p>
+
+
+<p align="center">
 # ## 💫 About Me  
 Hi, I'm Fatan 👋  
 aka **The Copy Boy** — I turn clarity into code and pixels into experiences.
@@ -17,7 +19,7 @@ aka **The Copy Boy** — I turn clarity into code and pixels into experiences.
 - 🚧 **Personal Website** — In progress  
 - 🖼️ **Portfolio & Showcase** — Clean, fast, and tells a visual story  
 - 🖌️ **UI/UX Case Studies** — *Coming soon!*  
-
+</p>
 
 <div align="center">
   
