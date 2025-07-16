@@ -1,6 +1,22 @@
-# 💫 About Me:
-Hi, I'm Fatan 👋<br>aka The Copy Boy — I turn clarity into code & pixels into experiences.<br>💼 What I Do<br>🧠 UI/UX Designer in progress<br>🎨 Craft minimalist yet expressive interfaces<br>💻 Frontend Dev (HTML, CSS, Tailwind)<br>✍️ Combine visual & verbal design — storytelling meets structure<br>🧪 Playground Projects<br>🚧 Personal Website — In progress<br><br>Portfolio + design showcase<br>Clean, fast, and tells a visual story<br><br>🖌️ UI/UX Case Studies — Coming soon<br><br>Mockups, redesigns, and layout thinking from my creative perspective<br><br>
-<br>
+<!-- 🎆 SVG-Based Banner with Gradient + Stars -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F96CA6&center=true&vCenter=true&width=435&lines=✨+Hi+I'm+Nala+or+Fatan!;Designer+%F0%9F%96%A4+Who+Codes;Creating+in+games,+website,+and+art" alt="Animated typing SVG" />
+</p>
+# ## 💫 About Me  
+Hi, I'm Fatan 👋  
+aka **The Copy Boy** — I turn clarity into code and pixels into experiences.
+
+## 💼 What I Do  
+- 🧠 *Aspiring UI/UX Designer* — Learning the craft of intuitive design  
+- 🎨 Creating **minimalist yet expressive** interfaces  
+- 💻 Frontend Dev (HTML, CSS, Tailwind)  
+- ✍️ Bridging **visuals & words** — storytelling meets structure
+
+## 🧪 Current Projects  
+- 🚧 **Personal Website** — In progress  
+- 🖼️ **Portfolio & Showcase** — Clean, fast, and tells a visual story  
+- 🖌️ **UI/UX Case Studies** — *Coming soon!*  
+
 
 <div align="center">
   
