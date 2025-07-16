@@ -1,6 +1,7 @@
 <!-- 🎆 SVG-Based Banner with Gradient + Stars -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F96CA6&center=true&vCenter=true&width=435&lines=✨+Hi+I'm+Nala+or+Fatan!;Designer+%F0%9F%96%A4+Who+Codes;Creating+in+games,+website,+and+art" alt="Animated typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F4D06F&vCenter=true&center=true&multiline=true&width=600&lines=✨+Hi,+I'm+Fatan+(a.k.a+The+Copy+Boy)!;🖌️+Designer+Who+Codes;🎮+Crafting+Games,+Web,+and+Visual+Stories;🎨+Minimalist+UI+%2B+Frontend+Dev;✍️+Pixels+%2B+Words+%3D+Impactful+Design" alt="Typing SVG aesthetic" />
+</p>
 </p>
 # ## 💫 About Me  
 Hi, I'm Fatan 👋  
